@@ -1,7 +1,12 @@
-def about_me
-  puts "My name is Colleen"
-  puts "I live in Colorado"
-  puts "I am 17 years old"
-  puts "My favorite ice cream is Phish Food ffrom Ben & Jerry's"
+local_greeting =
+your_name =
+my_name =
+time_of_day =
+
+def greeting
+  puts "Hi Chen! I'm Colleen. How's your affternoon?"
 end
-about_me
+
+greeting
+
+
